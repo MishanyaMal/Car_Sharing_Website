@@ -4,7 +4,7 @@ A web application for booking cars via a carsharing model: vehicle selection, co
 
 ## Technologies
 
-- **Frontend:** React, TypeScript
+- **Frontend:** `React`, `Typescript`
 - **Styling:** CSS Modules
 - **Design:** Figma
 
